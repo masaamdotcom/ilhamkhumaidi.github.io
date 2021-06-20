@@ -10,3 +10,7 @@
 section {
   padding-top: 5rem;
 }
+audio {
+  width: 175px;
+  height: 25px;
+}
