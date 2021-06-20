@@ -3,7 +3,7 @@
   background-color: #e2edff;
 }
 
-#projects {
+#videos {
   background-color: #e2edff;
 }
 
@@ -13,4 +13,5 @@ section {
 audio {
   width: 175px;
   height: 25px;
+  background-color: blue;
 }
